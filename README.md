@@ -6,6 +6,7 @@ An advanced PrimeNG tools library for Angular.
 
 - [Introduction](#introduction)
 - [Installation](#installation)
+- [Compatibility](#compatibility)
 - [Usage](#usage)
   - [ng-advanced-prime-table](#ng-advanced-prime-table)
     - [Inputs](#inputs)
@@ -25,6 +26,11 @@ To install `ng-prime-tools`, use the following command:
 ```bash
 npm install ng-prime-tools
 ```
+
+## Compatibility
+
+- **Angular Version**: 17.3.1 or higher
+- **PrimeNG Version**: 17.18.0 or higher
 
 ## Usage
 
@@ -208,4 +214,4 @@ export class AppComponent implements OnInit {
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
